@@ -108,7 +108,7 @@ form{
   display: none;
 }
 
-@media screen and (max-width:910px){
+@media screen and (max-width:1000px){
 
   body{
   background: url(Imagenes/3.jpg);
